@@ -49,7 +49,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1647,8 +1647,7 @@
   <transcript_data />
   <glossary_data>
     <terms>
-      <term title="Active Voice">Active voice clearly lets you know WHAT is performing the action of the sentence by placing
-the SUBJECT at the front of the sentence.</term>
+      <term title="Active Voice">Active voice clearly lets you know WHAT is performing the action of the sentence by placing the SUBJECT at the front of the sentence.</term>
       <term title="Object">Something in the sentence that is being acted on by the subject.</term>
       <term title="Passive Voice">Passive voice is a sentence arranged to make the SUBJECT receive action, rather than the OBJECT.</term>
       <term title="Subject">The person, place, or thing performing the action.</term>
